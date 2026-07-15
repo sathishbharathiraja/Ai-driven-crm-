@@ -1,0 +1,5 @@
+.env
+__pycache__
+crm.db
+venv/
+.pytest_cache/
